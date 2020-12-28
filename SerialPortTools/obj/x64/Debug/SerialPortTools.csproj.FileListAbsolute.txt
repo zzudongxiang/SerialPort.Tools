@@ -1,0 +1,17 @@
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\bin\x64\Debug\SerialPortTools.exe.config
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\bin\x64\Debug\SerialPortTools.exe
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\bin\x64\Debug\SerialPortTools.pdb
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.ChartPage.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.frmExport.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.frmAbout.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.ChartSetting.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.ShowValue.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.ThresholdValue.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.frmMain.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.frmNew.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.Properties.Resources.resources
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.csproj.GenerateResource.Cache
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.exe
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.pdb
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.csprojResolveAssemblyReference.cache
+C:\Users\Berney\Desktop\SerialPortTools\SerialPortTools\obj\x64\Debug\SerialPortTools.frmWaiting.resources
